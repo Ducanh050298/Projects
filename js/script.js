@@ -21,34 +21,34 @@
 
 /* */
 function navigate_github() {
-    window.location.href = 'https://github.com/huyhoang-8296/';
+    window.location.href = 'https://github.com/Ducanh050298';
 }
 /* */
 function navigate_linkedin() {
-    window.location.href = 'https://www.linkedin.com/in/huy-hoang-039a62196/';
+    window.location.href = 'https://www.linkedin.com/in/duc-anh-hoang-267b24158?fbclid=IwAR3eX7ANgdg0oRjL1esr1nZNrLBBn43E9veEpbNrZMwCxO6Xl1B3SFJ3PzU';
 }
 /* */
 function navigate_facebook() {
-    window.location.href = 'https://www.facebook.com/bao.huy.758/';
+    window.location.href = 'https://www.facebook.com/duc.a.hoang.3';
 }
 /* */
 function navigate_instagram() {
-    window.location.href = 'https://www.instagram.com/huy_hoang82/';
+    window.location.href = 'https://www.instagram.com/_david_anh';
 }
 
 /* */
 function navigate_project_1() {  
-    window.location.href = 'https://github.com/huyhoang-8296/Shooting';
+    window.location.href = 'https://github.com/truongnguyen14/Online-shopping';
 }
 
 /* */
 function navigate_project_2() {
-    window.location.href = 'https://github.com/huyhoang-8296/MathGame';
+    window.location.href = 'https://github.com/Ducanh050298/Pygame';
 }
 
 /* */
 function navigate_project_3() {
-    window.location.href = 'https://github.com/huyhoang-8296/MathGame2';
+    window.location.href = 'https://github.com/s3891667/Full_Stack_Website';
 }
 
 /* */
